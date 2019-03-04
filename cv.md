@@ -1,8 +1,8 @@
 ### Name
    Khrapun Pavel
 ### My contact
-   *Telephone:+375295179613,
-   *Mail:pavelhrapun@mail.ru
+   >Telephone:+375295179613,
+   >Mail:pavelhrapun@mail.ru
 ### Summary
    Hello, my name is Pavel. Student of the Faculty of Information Technology and Robotics (2nd year).
    I have experience with: Chat python bot using sockets and databases,and writing front- and on PyQT.
